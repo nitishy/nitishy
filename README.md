@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitishy
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning terraform
+- 👀 I’m interested in SRE
+- 🌱 I’m currently working with AWS, Terraform
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me 
 
